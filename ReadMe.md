@@ -33,6 +33,7 @@ Contributing to open source is another way of volunteering. Think about it- if y
 5. [Writing your first patch for Django](https://docs.djangoproject.com/en/1.8/intro/contributing/)
 6. [Contributing to SciPy](https://github.com/scipy/scipy/blob/master/HACKING.rst.txt)
 7. [How to Contribute to Calagator](https://github.com/calagator/calagator/wiki/How-To-Contribute-To-Calagator)
+8. [Contribute to Pyladies](https://github.com/pyladies/pyladies)
  
 
 
