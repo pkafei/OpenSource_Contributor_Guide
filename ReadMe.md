@@ -44,7 +44,8 @@ Contributing to open source is another way of volunteering. Think about it- if y
 5. [A beginners Guide to Writing Good Documenation](http://docs.writethedocs.org/writing/beginners-guide-to-docs/)
 
 ### More Resources
-1. [Contributing to Open Source on GitHub](https://guides.github.com/activities/contributing-to-open-source/)
-2. [14 Ways of Contributing to Open Source Without Being a Rockstar or Genius](http://blog.smartbear.com/programming/14-ways-to-contribute-to-open-source-without-being-a-programming-genius-or-a-rock-star/)
-3. [Why Technical People Should Blog (But Don't)](http://www.rackspace.com/blog/why-technical-people-should-blog-but-dont/)
+1. [What is Open Source?](http://www.codenewbie.org/blogs/what-is-open-source)
+2. [Contributing to Open Source on GitHub](https://guides.github.com/activities/contributing-to-open-source/)
+3. [14 Ways of Contributing to Open Source Without Being a Rockstar or Genius](http://blog.smartbear.com/programming/14-ways-to-contribute-to-open-source-without-being-a-programming-genius-or-a-rock-star/)
+4. [Why Technical People Should Blog (But Don't)](http://www.rackspace.com/blog/why-technical-people-should-blog-but-dont/)
 
