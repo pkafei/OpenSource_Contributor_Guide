@@ -33,9 +33,11 @@ Contributing to open source is another way of volunteering. Think about it- if y
 5. [Writing your first patch for Django](https://docs.djangoproject.com/en/1.8/intro/contributing/)
 6. [Contributing to SciPy](https://github.com/scipy/scipy/blob/master/HACKING.rst.txt)
 7. [How to Contribute to Calagator](https://github.com/calagator/calagator/wiki/How-To-Contribute-To-Calagator)
-8. [Contribute to Pyladies](https://github.com/pyladies/pyladies)
+8. [Contribute to Pyladies](https://github.com/pyladies/pyladies) 
 9. [Contribute to Read the Docs](http://docs.readthedocs.org/en/latest/contribute.html)
 10. [Contribute to Django](https://docs.djangoproject.com/en/1.8/internals/contributing/)
+11. [Contribute to OpenHatch](http://openhatch.org/search/?q=&toughness=bitesize) (links directly to bite-size bugs) 
+12. [Contribute to Growstuff](http://wiki.growstuff.org/index.php/Development/Newbie_guide)
  
 
 
@@ -51,4 +53,5 @@ Contributing to open source is another way of volunteering. Think about it- if y
 2. [Contributing to Open Source on GitHub](https://guides.github.com/activities/contributing-to-open-source/)
 3. [14 Ways of Contributing to Open Source Without Being a Rockstar or Genius](http://blog.smartbear.com/programming/14-ways-to-contribute-to-open-source-without-being-a-programming-genius-or-a-rock-star/)
 4. [Why Technical People Should Blog (But Don't)](http://www.rackspace.com/blog/why-technical-people-should-blog-but-dont/)
+5. Julie Pagano, ["Beginner Friendly Open Source Projects"](http://juliepagano.com/blog/2013/11/14/beginner-friendly-open-source-projects/)
 
