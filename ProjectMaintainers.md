@@ -15,3 +15,4 @@ Resources:
 3. [Open Source Development Guidelines](http://wiki.civiccommons.org/Open_Source_Development_Guidelines)
 4. [Tips for New Open Source Maintainers](https://lord.io/blog/2014/oss-tips/)
 5. [Mentored Bugs and You](http://www.joshmatthews.net/deck.js/mentor/#title-slide)
+6. [Source Quest!](https://medium.com/@trek/source-quest-ff7d227d8fed)
