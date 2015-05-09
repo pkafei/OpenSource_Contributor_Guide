@@ -11,7 +11,6 @@
 Resources:
 
 1. [Tips for keeping your Open Source Software issues tracker tidy](http://blog.plataformatec.com.br/2014/05/tips-for-keeping-your-open-source-software-issues-tracker-tidy/)
-
 2. [18F Maintainer Guidelines](https://18f.github.io/open-source-program/pages/maintainer_guidelines/)
 3. [Open Source Development Guidelines](http://wiki.civiccommons.org/Open_Source_Development_Guidelines)
 4. [Tips for New Open Source Maintainers](https://lord.io/blog/2014/oss-tips/)
