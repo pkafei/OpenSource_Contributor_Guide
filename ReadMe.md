@@ -22,8 +22,8 @@ Contributing to open source is another way of volunteering. Think about it- if y
 
 ### Mentoring for New Comers
 1. [Open Hatch] (https://openhatch.org/)
-2. [Mozilla Introduction](https://developer.mozilla.org/en-US/docs/Introduction)
-3. [OutReachy](https://wiki.gnome.org/Outreachy/2015/MayAugust/SpreadTheWord?action=AttachFile&do=view&target=outreachy-poster-2015-May-August.png)(paid opportunity)
+2. [Mozilla Introduction](https://developer.mozilla.org/en-US/docs/Introduction) and [Bugs Ahoy!] (http://www.joshmatthews.net/bugsahoy/)
+3. [OutReachy](https://wiki.gnome.org/Outreachy/2015/MayAugust/SpreadTheWord?action=AttachFile&do=view&target=outreachy-poster-2015-May-August.png) (paid opportunity)
 
 ### Open Source Projects
 1. [Wikipedia](http://www.wikihow.com/Contribute-to-Wikipedia)
